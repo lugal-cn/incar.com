@@ -1,0 +1,17 @@
+<div>
+<p style="padding: 20px; border: 1px solid; line-height: 40px; height: 40px;">
+  我们提供的是基于移动互联网化的信息服务，而不是信息化系统
+</p>
+<dl class="model-dl-list-1">
+<dd>
+<ul class="model-dl-list-1-1"><li>我们与4S店共同销售OBD设备</li>
+<li>我们向车主提供基础运营服务</li>
+<li>我们向4S店提供客户关怀及精准营销运营服务</li>
+</ul></dd>
+<dd class="model-dl-dd-2">
+    <span>而不是：</span>
+<ul><li>向4S建设或销售IT系统</li>
+<li>建议4S店上马新的IT系统以支撑运营</li>
+<li>建立庞大、且不专业的移动互联网运营团队</li>
+</ul></dd>
+</dl></div>
